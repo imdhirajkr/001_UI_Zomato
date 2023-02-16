@@ -1,7 +1,4 @@
-.my-div {
-    height: 500px;
-    background-image:"img/hello.jpg";
-
-    background-size: cover;
-    background-position: center; 
+.topImage{
+    height: 400px;
+    width:100%;
 }
