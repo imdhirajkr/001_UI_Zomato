@@ -2,3 +2,19 @@
     height: 500px;
     width:100%;
 }
+
+
+/* New  */
+
+.topimage{
+    height: 500px;
+    width:100%;
+}
+
+.topSection{
+
+    position:absolute;
+    top:80px;
+    width:100%;
+    text-align: center;
+}
