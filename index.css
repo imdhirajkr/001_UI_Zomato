@@ -1,0 +1,7 @@
+.my-div {
+    height: 500px;
+    background-image:"img/hello.jpg";
+
+    background-size: cover;
+    background-position: center; 
+}
