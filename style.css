@@ -25,7 +25,6 @@
     margin-top:30px;
 }
 
-
 .locationbox{
     width:245px;
     height:45px;
@@ -35,6 +34,18 @@
     font-size:18px;
 }
 
+.searchbox{
+    position: relative;
+}
 
+.searchInput{
+    width:200px;
+    height:45px;
+    margin: 0 0 0 21px;
+    padding : 10px;
+    background-color: #fff;
+    padding-left:30px;
+    font-size:18px;
+}
 
 
